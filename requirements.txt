@@ -1,1 +1,1 @@
-python-telegram-bot==21.0selenium==4.17.2twocaptcha==0.0.1python-dotenv==1.0.1
+python-telegram-bot==21.0selenium==4.17.2twocaptcha==0.0.1python-dotenv==1.0.1apscheduler==3.11.0
